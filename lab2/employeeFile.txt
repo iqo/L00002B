@@ -1,0 +1,9 @@
+---- Employee information ----
+
+name: niklas
+Social security number: 12323
+District: f
+Items sold: 33
+Sales level: 1
+
+1 employees on level 1
