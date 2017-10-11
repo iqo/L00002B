@@ -1,0 +1,9 @@
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\bin\Debug\L0002BInl3.exe.config
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\bin\Debug\L0002BInl3.exe
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\bin\Debug\L0002BInl3.pdb
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\obj\Debug\L0002BInl3.csprojResolveAssemblyReference.cache
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\obj\Debug\L0002BInl3.Form1.resources
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\obj\Debug\L0002BInl3.Properties.Resources.resources
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\obj\Debug\L0002BInl3.csproj.GenerateResource.Cache
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\obj\Debug\L0002BInl3.exe
+H:\L0002B\Lab3\L0002BInl3\L0002BInl3\obj\Debug\L0002BInl3.pdb
