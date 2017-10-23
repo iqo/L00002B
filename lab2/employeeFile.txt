@@ -1,9 +1,45 @@
 ---- Employee information ----
 
-name: niklas
-Social security number: 12323
+name: tree
+Social security number: c
+District: c
+Items sold: 1
+Sales level: 1
+
+name: five
+Social security number: 4321
 District: f
 Items sold: 33
 Sales level: 1
 
-1 employees on level 1
+2 employees on level 1
+
+name: one
+Social security number: 1234
+District: a
+Items sold: 55
+Sales level: 2
+
+1 employees on level 2
+
+name: four
+Social security number: 1234
+District: d
+Items sold: 173
+Sales level: 3
+
+1 employees on level 3
+
+name: two
+Social security number: 1234
+District: b
+Items sold: 222
+Sales level: 4
+
+name: six
+Social security number: 4566
+District: h
+Items sold: 300
+Sales level: 4
+
+2 employees on level 4
